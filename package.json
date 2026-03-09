@@ -1,0 +1,19 @@
+{
+  "name": "bootcamp_manz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "servidor": "servor src/ index.html 1234 --reload"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.31.0",
+  "type": "module",
+  "devDependencies": {
+    "oxfmt": "^0.36.0",
+    "oxlint": "^1.51.0",
+    "servor": "4.0.2"
+  }
+}
